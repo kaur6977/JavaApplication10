@@ -18,6 +18,8 @@ public class JavaApplication10 {
         // TODO code application logic here
         for(int i=0; i<10; i++)
         System.out.println("Komal ne aaj mujhe samose khilaaye");
+        
+        System.out.println("I am committed not single");
     }
 
 }
