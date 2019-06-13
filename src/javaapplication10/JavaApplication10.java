@@ -20,6 +20,11 @@ public class JavaApplication10 {
         System.out.println("Komal ne aaj mujhe samose khilaaye");
         
         System.out.println("I am committed not single");
+        
+        System.out.println("Komal ne aaj mujhe samose khilaaye");
+        
+      System.out.println("fhdtjgjk");
+     
     }
 
 }
