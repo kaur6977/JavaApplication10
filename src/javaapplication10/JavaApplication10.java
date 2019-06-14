@@ -26,7 +26,8 @@ public class JavaApplication10 {
       System.out.println("fhdtjgjk");
       
         System.out.println("Oh.... My..... Gawd!!!!");
-     
+        System.out.println("komal khaira");
+       
     }
 
 }
